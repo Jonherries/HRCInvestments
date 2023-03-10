@@ -1,5 +1,5 @@
 # HRCInvestments
-A scraped dataset from the HRC NZ website showing where investments have been made.
+A scraped dataset from the Health Research Council NZ website showing where investments have been made: http://hrc.govt.nz/resources/research-repository
 
 This was done in Feb 2022 from the HRC website using a browser scraper. I have done some work to cleanse the data and have described this from a research perspective and from a researcher perspective.
 
